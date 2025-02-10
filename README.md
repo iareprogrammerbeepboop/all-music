@@ -30,7 +30,7 @@ docker compose up --build
 После того, как система будет развернута, приложение станет доступно по ссылке http://localhost:8501
 
 ## Ссылка на видеоролик
-https://drive.google.com/drive/folders/1-X16zrVO8tzLfLeOrHJ61JxMMz5iN_gu
+https://vk.com/video540725619_456239247
 
 ## Остановка
 Чтобы остановить приложение, выполните:
